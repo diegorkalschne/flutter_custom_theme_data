@@ -10,4 +10,4 @@ Um simples projeto mostrando como criar extensões personalizadas para ThemeData
 2. Execute `flutter pub get`
 3. Execute `flutter run`
 
-Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Usando extensões de ThemeData no Flutter]()
+Ficou com alguma dúvida? Escrevi um artigo no Medium falando um pouco sobre esse projeto, confere lá: [Usando extensões de ThemeData no Flutter](https://medium.com/@diegokalschne/dffd12e70fc4)
